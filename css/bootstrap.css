@@ -586,6 +586,7 @@ pre code {
 }
 
 .row {
+  margin-top: 4.5em;
   display: -ms-flexbox;
   display: flex;
   -ms-flex-wrap: wrap;

@@ -752,12 +752,14 @@ input[type='checkbox'] {
 }
 
 .header .header-content {
-	padding-bottom: 2rem;
+	padding-top: 8.5rem;
+	padding-bottom: 7rem;
 	text-align: center;
 }
 
 .header .text-container {
-	margin-bottom: 1rem;
+	padding-top: 4px;
+	margin-bottom: 3rem;
 }
 
 .header h1 {
