@@ -127,9 +127,9 @@ p.testimonial-author{
 .btn-solid-reg {
 	display: inline-block;
 	padding: 1.1875rem 2.125rem 1.1875rem 2.125rem;
-	border: 0.125rem solid #00c9db;
+	border: 0.125rem solid #157C45;
 	border-radius: 2rem;
-	background-color: #00c9db;
+	background-color: #157C45;
 	color: #fff;
 	font: 700 0.75rem/0 "Montserrat", sans-serif;
 	text-decoration: none;
@@ -138,7 +138,7 @@ p.testimonial-author{
 
 .btn-solid-reg:hover {
 	background-color: transparent;
-	color: #00c9db;
+	color: #157C45;
 	text-decoration: none;
 }
 
@@ -156,7 +156,7 @@ p.testimonial-author{
 
 .btn-solid-lg:hover {
 	background-color: transparent;
-	color: #00c9db;
+	color: #157C45;
 	text-decoration: none;
 }
 
@@ -174,17 +174,17 @@ p.testimonial-author{
 .btn-outline-reg {
 	display: inline-block;
 	padding: 1.1875rem 2.125rem 1.1875rem 2.125rem;
-	border: 0.125rem solid #00c9db;
+	border: 0.125rem solid #157C45;
 	border-radius: 2rem;
 	background-color: transparent;
-	color: #00c9db;
+	color: #157C45;
 	font: 700 0.75rem/0 "Montserrat", sans-serif;
 	text-decoration: none;
 	transition: all 0.2s;
 }
 
 .btn-outline-reg:hover {
-	background-color: #00c9db;
+	background-color: #157C45;
 	color: #fff;
 	text-decoration: none;
 }
@@ -192,17 +192,17 @@ p.testimonial-author{
 .btn-outline-lg {
 	display: inline-block;
 	padding: 1.375rem 2.625rem 1.375rem 2.625rem;
-	border: 0.125rem solid #00c9db;
+	border: 0.125rem solid #157C45;
 	border-radius: 2rem;
 	background-color: transparent;
-	color: #00c9db;
+	color: #157C45;
 	font: 700 0.75rem/0 "Montserrat", sans-serif;
 	text-decoration: none;
 	transition: all 0.2s;
 }
 
 .btn-outline-lg:hover {
-	background-color: #00c9db;
+	background-color: #157C45;
 	color: #fff;
 	text-decoration: none;
 }
@@ -210,17 +210,17 @@ p.testimonial-author{
 .btn-outline-sm {
 	display: inline-block;
 	padding: 1rem 1.625rem 0.875rem 1.625rem;
-	border: 0.125rem solid #00c9db;
+	border: 0.125rem solid #157C45;
 	border-radius: 2rem;
 	background-color: transparent;
-	color: #00c9db;
+	color: #157C45;
 	font: 700 0.625rem/0 "Montserrat", sans-serif;
 	text-decoration: none;
 	transition: all 0.2s;
 }
 
 .btn-outline-sm:hover {
-	background-color: #00c9db;
+	background-color: #157C45;
 	color: #fff;
 	text-decoration: none;
 }
@@ -368,9 +368,9 @@ input[type='checkbox'] {
 	display: inline-block;
 	width: 100%;
 	height: 3.125rem;
-	border: 1px solid #00c9db;
+	border: 1px solid #157C45;
 	border-radius: 1.5rem;
-	background-color: #00c9db;
+	background-color: #157C45;
 	color: #fff;
 	font: 700 0.75rem/1.75rem "Montserrat", sans-serif;
 	cursor: pointer;
@@ -379,7 +379,7 @@ input[type='checkbox'] {
 
 .form-control-submit-button:hover {
 	background-color: transparent;
-	color: #00c9db;
+	color: #157C45;
 }
 
 /* Form Success And Error Message Formatting */
@@ -1461,18 +1461,23 @@ a:hover.back-to-top {
 .ex-header {
 	padding-top: 8rem;
 	padding-bottom: 5rem;
-	background: linear-gradient(to bottom right, #2c1a7e, #5557db);
+	background: linear-gradient(to bottom right, #fff, #fff);
 	text-align: center;
 }
 
 .ex-basic-1 {
 	padding-top: 2rem;
 	padding-bottom: 0.875rem;
-	background-color: #2f2c3d;
+	background-color: #991E2F;
 }
 
 .ex-basic-1 .breadcrumbs {
 	margin-bottom: 1.125rem;
+	color: white;
+	
+}
+a.ex-basic-1 .breadcrumbs{
+	color: white !important;
 }
 
 .ex-basic-1 .breadcrumbs .fa {
@@ -1483,7 +1488,7 @@ a:hover.back-to-top {
 .ex-basic-2 {
 	padding-top: 4.75rem;
 	padding-bottom: 4rem;
-	background-color: #262431;
+	background-color: #fff;
 }
 
 .ex-basic-2 h3 {
@@ -1499,7 +1504,7 @@ a:hover.back-to-top {
 }
 
 .ex-basic-2 .list-unstyled .fas {
-	color: #00c9db;
+	color: #157C45;
 	font-size: 0.5rem;
 	line-height: 1.375rem;
 }
@@ -1727,7 +1732,6 @@ a:hover.back-to-top {
 	/* Extra Pages */
 	.ex-header {
 		padding-top: 11rem;
-		padding-bottom: 9rem;
 	}
 
 	.ex-basic-2 .text-container.dark {
