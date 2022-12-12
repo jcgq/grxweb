@@ -636,7 +636,7 @@ input[type='checkbox'] {
 /*     03. Navigation     */
 /**************************/
 .navbar-custom {
-	background-color:  #D42A40 !important;
+	background-color:  #E08342 !important;
 	box-shadow: 0 0.0625rem 0.375rem 0 rgba(0, 0, 0, 0.1);
 	font: 700 0.75rem/2rem "Montserrat", sans-serif;
 	transition: all 0.2s;
@@ -702,7 +702,7 @@ input[type='checkbox'] {
 	margin-top: 0;
 	border: none;
 	border-radius: 0.25rem;
-	background-color: #D42A40 !important;
+	background-color: #E08342 !important;
 }
 
 .navbar-custom .dropdown-item {
