@@ -636,7 +636,7 @@ input[type='checkbox'] {
 /*     03. Navigation     */
 /**************************/
 .navbar-custom {
-	background-color:  #E08342 !important;
+	background-color:  #429fdf !important;
 	box-shadow: 0 0.0625rem 0.375rem 0 rgba(0, 0, 0, 0.1);
 	font: 700 0.75rem/2rem "Montserrat", sans-serif;
 	transition: all 0.2s;
@@ -702,7 +702,7 @@ input[type='checkbox'] {
 	margin-top: 0;
 	border: none;
 	border-radius: 0.25rem;
-	background-color: #E08342 !important;
+	background-color: #429fdf !important;
 }
 
 .navbar-custom .dropdown-item {
@@ -802,7 +802,7 @@ input[type='checkbox'] {
 .slider-1 {
 	padding-top: 6.875rem;
 	padding-bottom: 6.375rem;
-	background-color: #E08342;
+	background-color: #429fdf;
 }
 
 .slider-1 .slider-container {
@@ -1376,7 +1376,7 @@ input[type='checkbox'] {
 /**********************/
 .footer {
 	padding-top: 5rem;
-	background-color: #E08342;
+	background-color: #429fdf;
 }
 
 .footer .footer-col {
